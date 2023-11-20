@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ninad Barve, a Second Year undergrad student of Computer Engineering and Information Technology
+- 👋 Hi, I’m Ninad Barve, a Final Year undergrad student of Computer Science Engineering
 - 👀 I’m interested in Space Technology, Exploration and recent developments.
-- 🌱 I’m currently learning Python, Data Structures in C and 8086
 - 📫 Reach me at ninad.barve04@gmail.com
 
 <!---
