@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ninad Barve, a Final Year undergrad student of Computer Science Engineering
-- 👀 I’m interested in Space Technology, Exploration and recent developments.
+- 👀 I’m interested in AI/ML and Core Computer Engineering.
+- Some of my other interests are Space Technology, Exploration and recent developments.
 - 📫 Reach me at ninad.barve04@gmail.com
 
 <!---
